@@ -1,0 +1,11 @@
+prod code = 2
+prod num = 5
+prod id = 7 (prod code + prod num)
+
+
+dilevery digit = 1;
+prod id = 7;
+order number = 8 
+
+order id = 16 (prod id) + (dilevery digit) + (order number);
+
