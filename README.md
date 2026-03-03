@@ -18,5 +18,5 @@ Technologies
 - Bootstrap 5
 - JavaScript
 - 
-Note
+Note :
 This project uses MySQL database – make sure to import the .sql file.
